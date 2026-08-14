@@ -1,13 +1,13 @@
 ### ⚽ World Cup Multiplayer Game
-لعبة جماعية متعددة اللاعبين (Multiplayer Game) تم تطويرها ضمن متطلبات مقرر **شبكات الحاسب (Computer Networks)** في **جامعة الملك سعود**. تعتمد اللعبة بشكل أساسي على بروتوكولات الاتصال الشبكي (Sockets, TCP, UDP) لضمان مزامنة البيانات ونقلها بسلاسة بين الأجهزة.
+A multiplayer network game developed as part of the **Computer Networks** course requirements at **King Saud University**. The game relies heavily on network communication protocols (`Sockets`, `TCP`, and `UDP`) to ensure smooth data synchronization and transmission between devices.
 
-**حول المشروع:**
-هذا المشروع هو عمل أكاديمي جماعي يهدف إلى تطبيق المفاهيم المتقدمة لشبكات الحاسب وبناء بيئة تفاعلية للعب الجماعي الفوري، مع التركيز على كفاءة نقل البيانات وإدارة الاتصال.
+**About the Project:**
+This collaborative academic project aims to apply advanced computer networking concepts and build an interactive real-time multiplayer gaming environment, focusing on efficient data packet transmission and connection management.
 
-**الإنجازات وفريق العمل:**
-* تم تطوير المشروع وتصميم هيكل الشبكة واللعبة بالتعاون مع فريق عمل متميز.
-* حصد المشروع جائزة **أفضل تصميم مشروع** في معرض تقنية المعلومات (IT Fair 2026) بجامعة الملك سعود.
+**Achievements & Team:**
+* Developed and structured collaboratively with a dedicated student team.
+* Awarded **Best Project Design** at the Information Technology Fair (IT Fair 2026) at King Saud University.
 
-**التقنيات المستخدمة:**
-* **Java:** لبرمجة وتطوير منطق اللعبة وبيئة العمل.
-* **Sockets, TCP, & UDP Protocols:** لإدارة الاتصال الشبكي، نقل حزم البيانات، وضمان مزامنة اللعب الفوري بين الخادم واللاعبين.
+**Technologies Used:**
+* **Java:** For game logic, application structure, and execution environment.
+* **Sockets, TCP, & UDP Protocols:** For network communication, packet handling, and real-time multiplayer synchronization between the server and clients.
